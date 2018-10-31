@@ -5,3 +5,4 @@
 
 [Running Kubernetes on Google Compute Engine](https://kubernetes.io/docs/setup/turnkey/gce/)
 
+[Cloud builder step](https://github.com/GoogleCloudPlatform/cloud-builders/tree/master/kubectl)
