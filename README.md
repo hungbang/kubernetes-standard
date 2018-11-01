@@ -12,3 +12,11 @@
 
 # search keywords
 [step by step deploy image to GCE by kubernetes](https://www.google.com/search?q=step+by+step+deploy+image+to+GCE+by+kubernetes&client=firefox-b-ab&ei=PDTZW-CrHMby8AWSqpeQCA&start=10&sa=N&ved=0ahUKEwjgub6q8K_eAhVGObwKHRLVBYIQ8tMDCLUB&biw=1920&bih=916)
+
+# Cloud builders - CI/CD
+
+1.  [Continuous Delivery Using Google Kubernetes Engine and Google Cloud Build](https://stephenmann.io/post/continuous-delivery-using-google-kubernetes-engine-and-google-cloud-build/)
+2.  [Configuring the order of build steps](https://cloud.google.com/cloud-build/docs/configuring-builds/configure-build-step-order)
+3.  [Building, Testing, and Deploying Artifacts](https://cloud.google.com/cloud-build/docs/configuring-builds/build-test-deploy-artifacts)
+4.  [Build, test, and deploy with Pipelines](https://confluence.atlassian.com/bitbucket/build-test-and-deploy-with-pipelines-792496469.html)
+5.  [Check build status in a pull request](https://confluence.atlassian.com/bitbucket/check-build-status-in-a-pull-request-945541505.html)
