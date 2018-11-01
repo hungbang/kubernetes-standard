@@ -13,6 +13,9 @@
 # search keywords
 [step by step deploy image to GCE by kubernetes](https://www.google.com/search?q=step+by+step+deploy+image+to+GCE+by+kubernetes&client=firefox-b-ab&ei=PDTZW-CrHMby8AWSqpeQCA&start=10&sa=N&ved=0ahUKEwjgub6q8K_eAhVGObwKHRLVBYIQ8tMDCLUB&biw=1920&bih=916)
 
+# How to create secret from json in kubernetes?
+1.  [Secret, ConfigMap from Json](https://medium.com/google-cloud/kubernetes-configmaps-and-secrets-part-2-3dc37111f0dc)
+
 # Cloud builders - CI/CD
 
 1.  [Continuous Delivery Using Google Kubernetes Engine and Google Cloud Build](https://stephenmann.io/post/continuous-delivery-using-google-kubernetes-engine-and-google-cloud-build/)
