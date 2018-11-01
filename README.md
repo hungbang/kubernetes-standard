@@ -29,3 +29,5 @@
 # Gcloud command:
 
 `gcloud container clusters get-credentials cloud-build-screening --zone=us-central1-b`
+`gcloud auth configure-docker`
+`kubectl create `
