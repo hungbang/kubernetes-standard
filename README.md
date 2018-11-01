@@ -15,6 +15,7 @@
 
 # How to create secret from json in kubernetes?
 1.  [Secret, ConfigMap from Json](https://medium.com/google-cloud/kubernetes-configmaps-and-secrets-part-2-3dc37111f0dc)
+2.  [Using kubernetes secret](https://medium.com/platformer-blog/using-kubernetes-secrets-5e7530e0378a)
 
 # Cloud builders - CI/CD
 
