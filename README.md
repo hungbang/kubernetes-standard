@@ -31,5 +31,15 @@
 # Gcloud command:
 
 `gcloud container clusters get-credentials cloud-build-screening --zone=us-central1-b`
+
 `gcloud auth configure-docker`
+
 `kubectl create `
+
+# Switch kubectl between Gcloud and local
+
+`kubectl config use-context CONTEXT_NAME`
+
+# to find context name 
+
+`kubectl config get-contexts`
