@@ -25,7 +25,9 @@
 4.  [Build, test, and deploy with Pipelines](https://confluence.atlassian.com/bitbucket/build-test-and-deploy-with-pipelines-792496469.html)
 5.  [Check build status in a pull request](https://confluence.atlassian.com/bitbucket/check-build-status-in-a-pull-request-945541505.html)
 6.  [Google Kubernetes Engine + Google Cloud Builder + GitHub for easy and quick CD pipeline](https://itnext.io/google-kubernetes-engine-google-cloud-builder-github-for-easy-and-quick-cd-pipeline-8aca663f1118)
-
+7.  [Using Kubernetes namespaces to manage](https://kubernetes.io/blog/2015/08/using-kubernetes-namespaces-to-manage/)
+8.  [Pre kubernetes engine for prod](https://cloud.google.com/solutions/prep-kubernetes-engine-for-prod)
+9.  ...
 # Gcloud command:
 
 `gcloud container clusters get-credentials cloud-build-screening --zone=us-central1-b`
