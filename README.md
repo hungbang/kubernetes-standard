@@ -43,3 +43,6 @@
 # to find context name 
 
 `kubectl config get-contexts`
+
+# namespace
+[Kubernetes best practice organizing](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-organizing-with-namespaces?hl=no)
