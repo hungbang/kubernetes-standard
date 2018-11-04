@@ -46,3 +46,4 @@
 
 # namespace
 [Kubernetes best practice organizing](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-organizing-with-namespaces?hl=no)
+[Kubernetes – How to Create / Delete Namespaces; Why Namespaces?](https://vitalflux.com/kubernetes-create-delete-namespaces-namespaces/)
