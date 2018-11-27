@@ -57,3 +57,5 @@
 
 # Deploy spring cloud 
 [deploying_using_kubectl](https://docs.spring.io/spring-cloud-dataflow-server-kubernetes/docs/1.4.0.RELEASE/reference/htmlsingle/#_deploying_using_kubectl)
+
+[quick-guide-to-microservices-with-kubernetes-spring-boot-2-0-and-docker](https://piotrminkowski.wordpress.com/2018/08/02/quick-guide-to-microservices-with-kubernetes-spring-boot-2-0-and-docker/comment-page-1/#comment-1327)
