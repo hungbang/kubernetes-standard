@@ -52,3 +52,8 @@
 # docker-for-desktop
 
 [web hook relay token](https://my.webhookrelay.com/tokens)
+
+
+
+# Deploy spring cloud 
+[deploying_using_kubectl](https://docs.spring.io/spring-cloud-dataflow-server-kubernetes/docs/1.4.0.RELEASE/reference/htmlsingle/#_deploying_using_kubectl)
