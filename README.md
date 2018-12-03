@@ -70,3 +70,4 @@
 https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.3/html/fuse_integration_services_2.0_for_openshift/kube-spring-boot
 
 ##  [get-automatic-https-with-lets-encrypt-and-kubernetes-ingress](https://akomljen.com/get-automatic-https-with-lets-encrypt-and-kubernetes-ingress/)
+##  [SSL/TLS cert on kubernetes](https://github.com/hungbang/cert-manager)
