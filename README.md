@@ -71,5 +71,7 @@ https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.3/html/fuse_i
 
 ##  [get-automatic-https-with-lets-encrypt-and-kubernetes-ingress](https://akomljen.com/get-automatic-https-with-lets-encrypt-and-kubernetes-ingress/)
 ##  [SSL/TLS cert on kubernetes](https://github.com/hungbang/cert-manager)
+##  [AUTO PROVISIONING OF LETSENCRYPT TLS](https://medium.com/@maninder.bindra/auto-provisioning-of-letsencrypt-tls-certificates-for-kubernetes-services-deployed-to-an-aks-52fd437b06b0)
+##  [INGRESS NGINX TLS USER GUIDE](https://kubernetes.github.io/ingress-nginx/user-guide/tls/)
 # Recommendation 
 ##  [gke-letsencrypt](https://github.com/ahmetb/gke-letsencrypt)
