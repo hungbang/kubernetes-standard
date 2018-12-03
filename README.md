@@ -75,3 +75,4 @@ https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.3/html/fuse_i
 ##  [INGRESS NGINX TLS USER GUIDE](https://kubernetes.github.io/ingress-nginx/user-guide/tls/)
 # Recommendation 
 ##  [gke-letsencrypt](https://github.com/ahmetb/gke-letsencrypt)
+# [secure-kubernetes-services-with-ingress-tls-letsencrypt](https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-services-with-ingress-tls-letsencrypt/)
