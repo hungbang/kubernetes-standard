@@ -7,6 +7,8 @@
 
 [Cloud builder step](https://github.com/GoogleCloudPlatform/cloud-builders/tree/master/kubectl)
 
+[Kubernetes best practice](https://www.weave.works/blog/kubernetes-best-practices)
+
 # relevant stackoverflow
 [Auto deploy when Image was created](https://stackoverflow.com/questions/46349803/is-there-a-way-to-automatically-deploy-to-gce-based-on-a-new-image-being-created)
 
