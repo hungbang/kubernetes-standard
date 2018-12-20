@@ -1,6 +1,6 @@
 # Kubernetes cookbook
 ## CI/CD
-1. [Kubernetes CI/CD GCP architecture](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
+1. [Kubernetes - CI/CD - GCP - Jenkins architecture](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
 
 # kubernetes-standard
 [Translate a Docker Compose File to Kubernetes Resources](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/#build-and-push-docker-images)
