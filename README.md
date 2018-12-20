@@ -2,6 +2,7 @@
 ## CI/CD
 1. [Kubernetes - CI/CD - GCP - Jenkins architecture](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
 2. [Continuous-Delivery-Kubernetes-Google-Cloud-Build](https://stephenmann.io/post/continuous-delivery-using-google-kubernetes-engine-and-google-cloud-build/)
+3. [gcp-kubernetes-source-to-prod](https://www.spinnaker.io/guides/tutorials/codelabs/gcp-kubernetes-source-to-prod/)
 
 # kubernetes-standard
 [Translate a Docker Compose File to Kubernetes Resources](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/#build-and-push-docker-images)
